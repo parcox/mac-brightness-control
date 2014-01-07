@@ -1,0 +1,6 @@
+This repository contains Bash shell script that used to adjust brightness using keyboard shortcut on Mac OS X Lion. Basically, this script use the program "brightness" that can be found here[1]. Why and How? Find it here[2].
+
+[1] http://dev.sabi.net/svn/dev/trunk/LocationDo/brightness.c
+[2] http://fitri.wibowo.uni.me/2014/01/07/adjust-brightness-using-keyboard-shortcut-on-os-x-lion
+
+By parcoxs[@t]gmail.com
